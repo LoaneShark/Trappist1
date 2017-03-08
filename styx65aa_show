@@ -1,0 +1,27 @@
+styx65aa_show froot
+0.004   dt  timstep 
+0       0=rand 1=hcp 2=cubic  lattice
+0.470   b_distance  minimum interparticle spacing
+2.55    mush_fac  sets maximum spring distance
+0.50  omegaz initial spin
+1e-1 gamma_init  
+1e-3 gamma_all
+2.0     t_damp
+5.0e-2    ks  spring constant
+1.0e6     mB  
+600.0    x1
+0.01 0.05 0.0 0.0 -0.05  ee,ii,longnode,argperi,meananom
+0.56    ratio1
+0.50    ratio2
+100.0     t_print
+2.0e10  t_heat
+0.0    r_I
+4e-2   ks_I
+0.0    dmfac
+2.0    xside
+3.0e6       tmax 
+20.0   obliquity_degrees
+0.12 mratio of binary
+275.0  sep of binary
+ 5.0e-08 invtaua  binary drift inverse timescale 
+0.0e-07 invtaue

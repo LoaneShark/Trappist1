@@ -1,0 +1,21 @@
+a 1.529
+b 0.856
+c 0.764
+vol_ratio 1.000000
+spin period 12.566371
+Young's_modulus 1.362951
+Young's_modulus big 0.638085
+mush_distance 1.1985
+mean_L  0.8588
+bin_period  28.6536 
+om_bin   0.2193 
+rot_period  91.6528 
+mm  0.0686
+ratio om_spin/om_rot = 7.294
+ratio om_bin/om_rot = 3.199
+ratio om_spin/om_bin = 2.280
+relaxation_time  2.500e-04
+barchi  0.0002
+posc 7.281546
+adot 1.587e-06
+N=42  NS=407 NS/N=9.7

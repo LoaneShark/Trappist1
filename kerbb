@@ -1,0 +1,27 @@
+kerbb froot
+0.004   dt  
+0       0=rand 1=hcp 2=cubic
+0.470   b_distance
+2.55    mush_fac
+0.50  omegaz
+1e-1 gamma_init
+1e-3 gamma_all
+2.0     t_damp
+5.0e-2    ks
+1.0e6     mB
+600.0    x1
+0.00 0.001 0.0 0.0 -0.05  ee,ii,longnode,argperi,meananom
+0.53    ratio1
+0.47    ratio2
+100.0     t_print
+2.0e10  t_heat
+0.0    r_I
+4e-2   ks_I
+0.0    dmfac
+2.0    xside
+3.0e6       tmax 
+5.0   obliquity_degrees
+3e-6  mratio of binary
+511.0  sep of binary
+ 3.0e-08 invtaua  binary drift inverse timescale 
+0.0e-07 invtaue
